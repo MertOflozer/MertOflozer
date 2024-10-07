@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mert Oflozer</h1>
-<h3 align="center">I am a junior developer and a passionate 3D modeler from Turkey</h3>
+<h3 align="center">I am a junior developer and 3D modeler from Turkey</h3>
 
 - 🔭 I’m currently working on **Blender**
 
