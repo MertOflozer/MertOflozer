@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mert Oflozer</h1>
 <h3 align="center">I am a junior developer and 3D modeler from Turkey</h3>
 
-- 🔭 I’m currently working on **Blender**
+- 🔭 I’m currently working on **Life**
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **Java**
 
 - 📫 How to reach me **moflozer9015@gmail.com**
 
